@@ -23,12 +23,12 @@ Q: the game won't launch or it crashes!
 A: check your platform version. if it's the right one and it still doesn't work, report the issue on this repo. if you have any error codes or reasons given, please include them.
 
 ## some basic controls
-wasd: movement
-left click: charge a throw. aim for the green! yellow is just fine as well: your throw will be stronger and deal more damage.
-right click: aim a throw. you'll zoom in and have lower sensitivity for those snipes.
-1-2-3-4: select an inventory slot. if it's not working, that slot is empty.
-ctrl + reverse slash : toggle a blizzard. won't work if you're not a host. sorry!
-clipboard cut: quit the game. (same as alt + f4)
-minus : killbind.
-ctrl : crouch
-shift: sprint
+- wasd: movement
+- left click: charge a throw. aim for the green! yellow is just fine as well: your throw will be stronger and deal more damage.
+- right click: aim a throw. you'll zoom in and have lower sensitivity for those snipes.
+- 1-2-3-4: select an inventory slot. if it's not working, that slot is empty.
+- minus : killbind.
+- shift: sprint
+- r : build mode
+- build mode left click : make a snowball
+- build mode right click : make a snowball and keep making more and faster
