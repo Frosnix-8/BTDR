@@ -30,5 +30,5 @@ A: check your platform version. if it's the right one and it still doesn't work,
 - minus : killbind.
 - shift: sprint
 - r : build mode
-- build mode left click : make a snowball
-- build mode right click : make a snowball and keep making more and faster
+- build mode left click and hold + release later : make a snowball
+- build mode right click and click again: make a snowball and keep making more and faster
